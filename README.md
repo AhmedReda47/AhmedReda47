@@ -18,48 +18,6 @@
 
 🛠 Tech Stack
 <p align="center"> <!-- Languages --> <img src="https://skillicons.dev/icons?i=html,css,js" /> <!-- Frameworks --> <img src="https://skillicons.dev/icons?i=vue,nuxt,react" /> <!-- Styling --> <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" /> <!-- Tools --> <img src="https://skillicons.dev/icons?i=vite,webpack,git,github,postman,figma,linux,npm" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Pinia-State%20Management-ffdd57?style=for-the-badge"/> <img src="https://img.shields.io/badge/VueUse-Utilities-41b883?style=for-the-badge"/> <img src="https://img.shields.io/badge/GSAP-Animations-10B981?logo=greensock&logoColor=fff&style=for-the-badge"/> <img src="https://img.shields.io/badge/REST%20APIs-Integration-2563eb?style=for-the-badge"/> <img src="https://img.shields.io/badge/A11y-Accessibility-9333ea?style=for-the-badge"/> </p>
-🚀 Featured Projects
-🛍️ E-commerce Website (JavaScript + TailwindCSS)
-
-Dynamic product rendering
-
-Add-to-cart functionality
-
-LocalStorage saving
-
-Fully responsive layout
-
-🌤️ Weather App (JavaScript + API)
-
-Real-time weather data
-
-API integration with error handling
-
-Clean and responsive interface
-
-🧪 Quiz App (Vue.js)
-
-Component-based structure
-
-Timer + scoring system
-
-Fully dynamic questions and results
-
-🖼️ Dynamic Image Gallery (Internship Task – CodeAlpha)
-
-Dynamic rendering
-
-Smooth animations
-
-Filtering system
-
-⌨️ Typing Speed Test
-
-Real-time timer
-
-Word generation
-
-Results statistics
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedReda&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </p>
@@ -67,9 +25,8 @@ Results statistics
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AhmedReda&theme=matrix&no-frame=true&margin-w=10&row=1" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedReda&theme=react-dark&hide_border=true" /> </p>
 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/ahmed-reda
+💼 LinkedIn: [https://www.linkedin.com/in/ahmed-reda](https://www.linkedin.com/in/ahmed-reda-b440b429a/)
 
-✉️ Email: youremail@example.com
- (replace with your real email)
+✉️ Email: ahmedredaameenn@gmail.com
 
 <!-- FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1e293b,100:0b1220" alt="footer"/> </p>
