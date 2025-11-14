@@ -10,7 +10,7 @@
 
 🎯 Passionate about writing clean, maintainable code and delivering great user experiences
 
-🌍 Based in Egypt – 10th of Ramadan
+🌍 Based in Egypt – Cairo
 
 📚 Always learning and working on new projects
 
