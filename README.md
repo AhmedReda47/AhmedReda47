@@ -18,7 +18,89 @@
 
 🛠 Tech Stack
 
-<p align="center"> <!-- Languages --> <img src="https://skillicons.dev/icons?i=html,css,js" /> <!-- Frameworks --> <img src="https://skillicons.dev/icons?i=vue,nuxt,react" /> <!-- Styling --> <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" /> <!-- Tools --> <img src="https://skillicons.dev/icons?i=vite,webpack,git,github,postman,figma,linux,npm" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Pinia-State%20Management-ffdd57?style=for-the-badge"/> <img src="https://img.shields.io/badge/VueUse-Utilities-41b883?style=for-the-badge"/> <img src="https://img.shields.io/badge/GSAP-Animations-10B981?logo=greensock&logoColor=fff&style=for-the-badge"/> <img src="https://img.shields.io/badge/REST%20APIs-Integration-2563eb?style=for-the-badge"/> <img src="https://img.shields.io/badge/A11y-Accessibility-9333ea?style=for-the-badge"/> </p>
+<p align="center">
+
+  <!-- Languages -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+
+  <!-- Frameworks -->
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vue" />
+  </a>
+  <a href="https://nuxt.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nuxt" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+
+  <!-- Styling -->
+  <a href="https://tailwindcss.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+  <a href="https://getbootstrap.com/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+
+  <!-- Tools -->
+  <a href="https://vitejs.dev/guide/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vite" />
+  </a>
+  <a href="https://webpack.js.org/concepts/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=webpack" />
+  </a>
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://docs.github.com/en" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://learning.postman.com/docs/introduction/overview/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+  <a href="https://www.figma.com/developers" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+  <a href="https://www.linux.org/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+  <a href="https://docs.npmjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=npm" />
+  </a>
+
+</p>
+
+<p align="center">
+
+  <a href="https://pinia.vuejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinia-State%20Management-ffdd57?style=for-the-badge"/>
+  </a>
+
+  <a href="https://vueuse.org/" target="_blank">
+    <img src="https://img.shields.io/badge/VueUse-Utilities-41b883?style=for-the-badge"/>
+  </a>
+
+  <a href="https://gsap.com/docs/" target="_blank">
+    <img src="https://img.shields.io/badge/GSAP-Animations-10B981?logo=greensock&logoColor=fff&style=for-the-badge"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST" target="_blank">
+    <img src="https://img.shields.io/badge/REST%20APIs-Integration-2563eb?style=for-the-badge"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility" target="_blank">
+    <img src="https://img.shields.io/badge/A11y-Accessibility-9333ea?style=for-the-badge"/>
+  </a>
+
+</p>
 
 
 📫 Connect With Me
